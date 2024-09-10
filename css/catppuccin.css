@@ -1,0 +1,418 @@
+/*##########################*/
+/*# Catppucin Mocha Colors #*/
+/*##########################*/
+
+/*Mocha Background Colors*/
+.mocha-bg-rosewater {
+    background-color: #f5e0dc;
+}
+
+.mocha-bg-flamingo {
+    background-color: #f2cdcd;
+}
+
+.mocha-bg-pink {
+    background-color: #f5c2e7;
+}
+
+.mocha-bg-mauve {
+    background-color: #cba6f7;
+}
+
+.mocha-bg-red {
+    background-color: #f38ba8;
+}
+
+.mocha-bg-maroon {
+    background-color: #eba0ac;
+}
+
+.mocha-bg-peach {
+    background-color: #fab387;
+}
+
+.mocha-bg-yellow {
+    background-color: #f9e2af;
+}
+
+.mocha-bg-green {
+    background-color: #a6e3a1;
+}
+
+.mocha-bg-teal {
+    background-color: #94e2d5;
+}
+
+.mocha-bg-sky {
+    background-color: #89dceb;
+}
+
+.mocha-bg-sapphire {
+    background-color: #74c7ec;
+}
+
+.mocha-bg-blue {
+    background-color: #89b4fa;
+}
+
+.mocha-bg-lavender {
+    background-color: #b4befe;
+}
+
+/*Mocha Background Overlays Colors*/
+.mocha-bg-overlay2 {
+    background-color: #9399b2;
+}
+
+.mocha-bg-overlay1 {
+    background-color: #7f849c;
+}
+
+.mocha-bg-overlay0 {
+    background-color: #6c7086;
+}
+
+/*Mocha Background Surface Colors*/
+.mocha-bg-surface2 {
+    background-color: #585b70;
+}
+
+.mocha-bg-surface1 {
+    background-color: #45475a;
+}
+
+.mocha-bg-surface0 {
+    background-color: #313244;
+}
+
+/*Mocha Background Base Colors*/
+.mocha-bg-base {
+    background-color: #1e1e2e;
+}
+
+.mocha-bg-mantle {
+    background-color: #181825;
+}
+
+.mocha-bg-crust {
+    background-color: #11111b;
+}
+
+/*Mocha Colors*/
+.mocha-rosewater {
+    color: #f5e0dc;
+}
+
+.mocha-flamingo {
+    color: #f2cdcd;
+}
+
+.mocha-pink {
+    color: #f5c2e7;
+}
+
+.mocha-mauve {
+    color: #cba6f7;
+}
+
+.mocha-red {
+    color: #f38ba8;
+}
+
+.mocha-maroon {
+    color: #eba0ac;
+}
+
+.mocha-peach {
+    color: #fab387;
+}
+
+.mocha-yellow {
+    color: #f9e2af;
+}
+
+.mocha-green {
+    color: #a6e3a1;
+}
+
+.mocha-teal {
+    color: #94e2d5;
+}
+
+.mocha-sky {
+    color: #89dceb;
+}
+
+.mocha-sapphire {
+    color: #74c7ec;
+}
+
+.mocha-blue {
+    color: #89b4fa;
+}
+
+.mocha-lavender {
+    color: #b4befe;
+}
+
+/*Mocha Overlays Colors*/
+.mocha-overlay2 {
+    color: #9399b2;
+}
+
+.mocha-overlay1 {
+    color: #7f849c;
+}
+
+.mocha-overlay0 {
+    color: #6c7086;
+}
+
+/*Mocha Surface Colors*/
+.mocha-surface2 {
+    color: #585b70;
+}
+
+.mocha-surface1 {
+    color: #45475a;
+}
+
+.mocha-surface0 {
+    color: #313244;
+}
+
+/*Mocha Base Colors*/
+.mocha-base {
+    color: #1e1e2e;
+}
+
+.mocha-mantle {
+    color: #181825;
+}
+
+.mocha-crust {
+    color: #11111b;
+}
+
+/*Mocha Text Colors*/
+.mocha-text {
+    color: #1e1e2e;
+}
+
+.mocha-subtext1 {
+    color: #181825;
+}
+
+.mocha-subtext0 {
+    color: #11111b;
+}
+
+
+/*##########################*/
+/*# Catppucin Latte Colors #*/
+/*##########################*/
+
+/*Latte Background Colors*/
+.latte-bg-rosewater {
+    background-color: #dc8a78;
+}
+
+.latte-bg-flamingo {
+    background-color: #dd7878;
+}
+
+.latte-bg-pink {
+    background-color: #ea76cb;
+}
+
+.latte-bg-mauve {
+    background-color: #8839ef;
+}
+
+.latte-bg-red {
+    background-color: #d20f39;
+}
+
+.latte-bg-maroon {
+    background-color: #e64553;
+}
+
+.latte-bg-peach {
+    background-color: #fe640b;
+}
+
+.latte-bg-yellow {
+    background-color: #df8e1d;
+}
+
+.latte-bg-green {
+    background-color: #40a02b;
+}
+
+.latte-bg-teal {
+    background-color: #179299;
+}
+
+.latte-bg-sky {
+    background-color: #04a5e5;
+}
+
+.latte-bg-sapphire {
+    background-color: #209fb5;
+}
+
+.latte-bg-blue {
+    background-color: #1e66f5;
+}
+
+.latte-bg-lavender {
+    background-color: #7287fd;
+}
+
+/*Latte Background Overlays Colors*/
+.latte-bg-overlay2 {
+    background-color: #7c7f93;
+}
+
+.latte-bg-overlay1 {
+    background-color: #8c8fa1;
+}
+
+.latte-bg-overlay0 {
+    background-color: #9ca0b0;
+}
+
+/*Latte Background Surface Colors*/
+.latte-bg-surface2 {
+    background-color: #acb0be;
+}
+
+.latte-bg-surface1 {
+    background-color: #bcc0cc;
+}
+
+.latte-bg-surface0 {
+    background-color: #ccd0da;
+}
+
+/*Latte Background Base Colors*/
+.latte-bg-base {
+    background-color: #eff1f5;
+}
+
+.latte-bg-mantle {
+    background-color: #e6e9ef;
+}
+
+.latte-bg-crust {
+    background-color: #dce0e8;
+}
+
+/*Latte Colors*/
+.latte-rosewater {
+    color: #dc8a78;
+}
+
+.latte-flamingo {
+    color: #dd7878;
+}
+
+.latte-pink {
+    color: #ea76cb;
+}
+
+.latte-mauve {
+    color: #8839ef;
+}
+
+.latte-red {
+    color: #d20f39;
+}
+
+.latte-maroon {
+    color: #e64553;
+}
+
+.latte-peach {
+    color: #fe640b;
+}
+
+.latte-yellow {
+    color: #df8e1d;
+}
+
+.latte-green {
+    color: #40a02b;
+}
+
+.latte-teal {
+    color: #179299;
+}
+
+.latte-sky {
+    color: #04a5e5;
+}
+
+.latte-sapphire {
+    color: #209fb5;
+}
+
+.latte-blue {
+    color: #1e66f5;
+}
+
+.latte-lavender {
+    color: #7287fd;
+}
+
+/*Latte Overlays Colors*/
+.latte-overlay2 {
+    color: #7c7f93;
+}
+
+.latte-overlay1 {
+    color: #8c8fa1;
+}
+
+.latte-overlay0 {
+    color: #9ca0b0;
+}
+
+/*Latte Surface Colors*/
+.latte-surface2 {
+    color: #acb0be;
+}
+
+.latte-surface1 {
+    color: #bcc0cc;
+}
+
+.latte-surface0 {
+    color: #ccd0da;
+}
+
+/*Latte Base Colors*/
+.latte-base {
+    color: #eff1f5;
+}
+
+.latte-mantle {
+    color: #e6e9ef;
+}
+
+.latte-crust {
+    color: #dce0e8;
+}
+
+/*Latte Text Colors*/
+.latte-text {
+    color: #4c4f69;
+}
+
+.latte-subtext1 {
+    color: #5c5f77;
+}
+
+.latte-subtext0 {
+    color: #6c6f85;
+}
